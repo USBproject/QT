@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
+#include <QTranslator>
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -44,14 +45,14 @@ void MainWindow::on_actionenglish_triggered()
     translator->load("../langdemo/english.qm");
     qApp->installTranslator(translator);
     ui->retranslateUi(this);
-}
+}/*
 void MainWindow::on_actionhanyu_triggered()
 {
     QTranslator *translator=new QTranslator;
     translator->load("../langdemo/hanyu.qm");
     qApp->installTranslator(translator);
     ui->retranslateUi(this);
-}
+}*/
 
 void MainWindow::on_actionitalian_triggered()
 {

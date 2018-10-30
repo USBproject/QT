@@ -49,33 +49,38 @@
         <translation>选项</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="93"/>
+        <location filename="mainwindow.ui" line="94"/>
         <source>关于我们</source>
         <translation>关于我们</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="122"/>
+        <location filename="mainwindow.ui" line="123"/>
         <source>中文</source>
         <translation>中文</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="127"/>
+        <location filename="mainwindow.ui" line="128"/>
         <source>意大利语</source>
         <oldsource>韩语</oldsource>
         <translation>意大利语</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="107"/>
+        <location filename="mainwindow.ui" line="133"/>
+        <source>配置</source>
+        <translation>配置</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="108"/>
         <source>英语</source>
         <translation>英语</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="112"/>
+        <location filename="mainwindow.ui" line="113"/>
         <source>日语</source>
         <translation>日语</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="117"/>
+        <location filename="mainwindow.ui" line="118"/>
         <source>俄语</source>
         <translation>俄语</translation>
     </message>

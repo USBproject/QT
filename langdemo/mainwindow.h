@@ -25,8 +25,6 @@ private slots:
 
     void on_actionenglish_triggered();
 
-    void on_actionhanyu_triggered();
-
     void on_actionitalian_triggered();
 
     void on_pushButton_clicked();
