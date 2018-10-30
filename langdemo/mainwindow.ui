@@ -30,6 +30,19 @@
      <string>你好，世界！</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>131</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>click me</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
@@ -48,6 +61,7 @@
     <addaction name="actionenglish"/>
     <addaction name="actionjapanese"/>
     <addaction name="actionrussian"/>
+    <addaction name="actionitalian"/>
    </widget>
    <widget class="QMenu" name="menu_2">
     <property name="title">
@@ -69,11 +83,23 @@
      <string>导航</string>
     </property>
    </widget>
+   <widget class="QMenu" name="menu_6">
+    <property name="title">
+     <string>选项</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_7">
+    <property name="title">
+     <string>关于我们</string>
+    </property>
+   </widget>
+   <addaction name="menu_6"/>
    <addaction name="menu_2"/>
    <addaction name="menu_3"/>
    <addaction name="menu_4"/>
    <addaction name="menu"/>
    <addaction name="menu_5"/>
+   <addaction name="menu_7"/>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
   <action name="actionenglish">
@@ -94,6 +120,11 @@
   <action name="actionzhongwen">
    <property name="text">
     <string>中文</string>
+   </property>
+  </action>
+  <action name="actionitalian">
+   <property name="text">
+    <string>意大利语</string>
    </property>
   </action>
  </widget>

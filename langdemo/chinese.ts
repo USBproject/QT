@@ -6,7 +6,7 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">多语言案例</translation>
+        <translation>多语言案例</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="30"/>
@@ -14,42 +14,68 @@
         <translation>你好，世界！</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="45"/>
+        <location filename="mainwindow.ui" line="43"/>
+        <source>click me</source>
+        <translation>点我</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="58"/>
         <source>语言</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="54"/>
+        <location filename="mainwindow.ui" line="68"/>
         <source>菜单</source>
         <translation>菜单</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="59"/>
+        <location filename="mainwindow.ui" line="73"/>
         <source>工具</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="64"/>
+        <location filename="mainwindow.ui" line="78"/>
         <source>开发</source>
         <translation>开发</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="90"/>
+        <location filename="mainwindow.ui" line="83"/>
+        <source>导航</source>
+        <translation>导航</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="88"/>
+        <source>选项</source>
+        <translation>选项</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="93"/>
+        <source>关于我们</source>
+        <translation>关于我们</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="122"/>
         <source>中文</source>
         <translation>中文</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="75"/>
+        <location filename="mainwindow.ui" line="127"/>
+        <source>意大利语</source>
+        <oldsource>韩语</oldsource>
+        <translation>意大利语</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="107"/>
         <source>英语</source>
         <translation>英语</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="80"/>
+        <location filename="mainwindow.ui" line="112"/>
         <source>日语</source>
         <translation>日语</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="85"/>
+        <location filename="mainwindow.ui" line="117"/>
         <source>俄语</source>
         <translation>俄语</translation>
     </message>

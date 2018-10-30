@@ -35,5 +35,6 @@ FORMS    += mainwindow.ui
 TRANSLATIONS += chinese.ts \
                 english.ts \
                 japanese.ts \
-                russian.ts
+                russian.ts \
+                italian.ts
 
